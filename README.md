@@ -1,2 +1,2 @@
 
-I do not own the design ©
+Design © Les Manifestes
