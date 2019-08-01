@@ -1,0 +1,2 @@
+# StaticPage
+Simple Page Section
